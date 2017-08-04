@@ -9,6 +9,12 @@ html,body{
 *, :before, :after{
     box-sizing: border-box;
 }
+.tit{
+    background-color: #050C19;
+    color: #E5FBFF;
+    text-align: center;
+    margin: 0;
+}
 #particles{
         height:100%;
         z-index: -999;
